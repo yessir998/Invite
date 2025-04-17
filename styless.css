@@ -6,13 +6,13 @@ body {
     background-color: rgb(189, 225, 122);
 }
 
-#noButton {
+#ayawButton {
     position: absolute;
     margin-left: 150px;
     transition: 0.5s;
 }
 
-#yesButton {
+#yes na yesButton {
     position: absolute;
     margin-right: 150px;
 }
